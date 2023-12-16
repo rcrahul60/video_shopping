@@ -2,7 +2,7 @@
 
 name = "shop-video"
 client_id = "a63ea7bc012b4a51a9401bfd627a7667"
-application_url = "https://likes-lunch-priority-drag.trycloudflare.com"
+application_url = "https://jar-ticket-plug-gap.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://likes-lunch-priority-drag.trycloudflare.com/auth/callback",
-  "https://likes-lunch-priority-drag.trycloudflare.com/auth/shopify/callback",
-  "https://likes-lunch-priority-drag.trycloudflare.com/api/auth/callback"
+  "https://jar-ticket-plug-gap.trycloudflare.com/auth/callback",
+  "https://jar-ticket-plug-gap.trycloudflare.com/auth/shopify/callback",
+  "https://jar-ticket-plug-gap.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
